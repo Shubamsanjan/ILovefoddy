@@ -1,4 +1,4 @@
-# ILovefoddy
+# ILovefoody
 Project is able to provide very fast service to their customers
 <?php
 session_start();
